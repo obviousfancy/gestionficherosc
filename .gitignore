@@ -7,6 +7,15 @@
 /build/
 /Debug/
 /Release/
+# Ejecutables
+*/test
+output/
+*.exe
+
+# macOS
+.DS_Store
+._*
+
 
 # Archivos de IDE (STM32CubeIDE, Keil, VS Code)
 .metadata/

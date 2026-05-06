@@ -1,0 +1,3 @@
+Hola, mundo en un archivo!
+añadi desde una variable
+hola

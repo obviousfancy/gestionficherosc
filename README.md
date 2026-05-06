@@ -1,13 +1,13 @@
-# [Nombre del Proyecto]
+# [Gestion de Ficheros C]
 
 ![Badge](https://img.shields.io/badge/Status-Completed-success)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 ## 📝 Descripción
-[Escribe aquí una descripción breve pero técnica. Ejemplo: "Sistema embebido basado en STM32 para el procesamiento de señales digitales acústicas utilizando algoritmos de filtrado FIR."]
+[Programas de gestion de ficheros en C y C++, basicos y avanzados con estructuras]
 
 ## 🚀 Características Principales
-- **Procesamiento en tiempo real:** [Ej: Implementación de FFT].
+- **Gestion de ficheros:** [Ej: Implementación de FFT].
 - **Diseño de Hardware:** PCB de 2 capas optimizada para bajo ruido.
 - **Interfaz:** Visualización de datos en pantalla OLED mediante protocolo I2C.
 
